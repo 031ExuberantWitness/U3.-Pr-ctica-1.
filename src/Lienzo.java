@@ -1,5 +1,4 @@
 
-import java.awt.BasicStroke;
 import java.awt.Canvas;
 import java.awt.Color;
 import java.awt.Font;
@@ -7,12 +6,7 @@ import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.io.IOException;
 import java.util.Random;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-import javax.imageio.ImageIO;
-import static javax.swing.JOptionPane.showMessageDialog;
 import javax.swing.Timer;
 
 public class Lienzo extends Canvas{
